@@ -49,14 +49,14 @@ Custom AI agents for automating React/Next.js development workflows. Saves 30-45
 
 **Stack:** AI Automation, React Patterns, Testing Frameworks
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rv-jpaxton&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-jpaxton&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" height="165" />
-</div>
+</div> -->
 
 ---
 
