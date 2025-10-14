@@ -9,6 +9,7 @@ Currently crafting customer-facing platforms with a focus on performance, access
 ## 🎯 What I Do
 
 I specialize in building scalable, production-ready applications with:
+
 - **Frontend Architecture** – React, Next.js, TypeScript
 - **Quality Engineering** – Comprehensive testing strategies (unit, E2E, VR)
 - **Developer Tooling** – Custom automation and workflow optimization
@@ -19,17 +20,20 @@ I specialize in building scalable, production-ready applications with:
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Testing & Quality
+
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ### Tools & Workflow
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -40,6 +44,7 @@ I specialize in building scalable, production-ready applications with:
 ## 💡 Recent Projects
 
 ### [Claude Code Configs](https://github.com/rv-jpaxton/claude-code-configs)
+
 Custom AI agents for automating React/Next.js development workflows. Saves 30-45 minutes per feature through intelligent scaffolding, test generation, and pre-commit validation.
 
 **Stack:** AI Automation, React Patterns, Testing Frameworks
@@ -61,9 +66,14 @@ Custom AI agents for automating React/Next.js development workflows. Saves 30-45
 const expertise = {
   architecture: ["SPA", "SSR", "Static Generation", "Hybrid Apps"],
   testing: ["Unit Testing", "Integration", "E2E", "Visual Regression", "A11y"],
-  performance: ["Core Web Vitals", "Bundle Optimization", "Lazy Loading", "CDN"],
+  performance: [
+    "Core Web Vitals",
+    "Bundle Optimization",
+    "Lazy Loading",
+    "CDN",
+  ],
   workflows: ["CI/CD", "Git Flow", "Code Review", "Documentation"],
-  practices: ["TDD", "DRY", "SOLID", "Accessibility-First", "Mobile-First"]
+  practices: ["TDD", "DRY", "SOLID", "Accessibility-First", "Mobile-First"],
 };
 ```
 
@@ -91,8 +101,7 @@ const expertise = {
 ## 📫 Let's Connect
 
 - **GitHub:** [@rv-jpaxton](https://github.com/rv-jpaxton)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jamespaxton) <!-- Update with your LinkedIn -->
-- **Email:** [your.email@example.com](mailto:your.email@example.com) <!-- Update with your email -->
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/james-paxton) <!-- Update with your LinkedIn -->
 
 ---
 
@@ -105,5 +114,6 @@ Check out my pinned repositories below to see examples of my work in React, Type
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rv-jpaxton&style=flat-square&color=58A6FF" alt="Profile Views" />
 
-  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
 </div>
