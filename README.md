@@ -2,7 +2,7 @@
 
 **Software Engineer** building high-performance web experiences with modern frontend technologies.
 
-Currently crafting customer-facing platforms at **Comcast** with a focus on performance, accessibility, and developer experience.
+Currently crafting customer-facing platforms with a focus on performance, accessibility, and developer experience.
 
 ---
 
