@@ -41,13 +41,6 @@ I specialize in building scalable, production-ready applications with:
 
 ---
 
-## 💡 Recent Projects
-
-### [Claude Code Configs](https://github.com/rv-jpaxton/claude-code-configs)
-
-Custom AI agents for automating React/Next.js development workflows. Saves 30-45 minutes per feature through intelligent scaffolding, test generation, and pre-commit validation.
-
-**Stack:** AI Automation, React Patterns, Testing Frameworks
 
 <!-- ---
 
